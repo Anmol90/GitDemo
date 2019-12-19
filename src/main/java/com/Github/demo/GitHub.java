@@ -5,6 +5,6 @@ import org.testng.annotations.Test;
 public class GitHub {
 	@Test
 	public void devBuild() {
-		System.out.println("Good morning world");
+		System.out.println("Hello GitHub");
 	}
 }
